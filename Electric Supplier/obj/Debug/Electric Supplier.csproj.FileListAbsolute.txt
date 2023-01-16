@@ -1,0 +1,31 @@
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Electric Supplier.exe.config
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Electric Supplier.exe
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Electric Supplier.pdb
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Form1.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Keyboard.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Properties.Resources.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.csproj.GenerateResource.cache
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.exe
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.pdb
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Contacts.accdb
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.PIN_Numbers.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.PIN_Page.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Welcome_Page.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Charging_Details.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Payment_Method.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.Progress_Bar.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.DoubleCheckPIN.resources
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric_Supplier.LoginForm.resources
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\MySql.Data.dll
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Google.Protobuf.dll
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Renci.SshNet.dll
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\MySql.Data.xml
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.csproj.CopyComplete
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Electric Supplier.exe.manifest
+C:\Users\drago\Desktop\Electric Supplier\bin\Debug\Electric Supplier.application
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.exe.manifest
+C:\Users\drago\Desktop\Electric Supplier\obj\Debug\Electric Supplier.application
